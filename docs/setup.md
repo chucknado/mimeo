@@ -1,6 +1,6 @@
 ## Setting up Mimeo
 
-Mime requires Python 3.6 or higher to run. It also uses a couple of third-party libraries that you must install on your system. The libraries can be installed with short one-line pip commands.
+Mimeo requires Python 3.6 or higher to run. It also uses a couple of third-party libraries that you must install on your system. The libraries can be installed with short one-line pip commands.
 
 This is a one-time only setup.
 
@@ -8,12 +8,12 @@ This is a one-time only setup.
 * [Installing requests](#installing-requests)
 * [Installing arrow](#installing-arrow)
 
-After installing the required libraries on your system, you can install and configure Mime.
+After installing the required libraries on your system, you can install and configure Mimeo.
 
-* [Installing Mime](#installing-mime)
-* [Configuring Mime](#configuring-mime)
+* [Installing Mimeo](#installing-mimeo)
+* [Configuring Mimeo](#configuring-mimeo)
 
-To learn how to use the tool, see [Using Mime](https://github.com/chucknado/mime/blob/master/docs/using-mime.md).
+To learn how to use the tool, see [Using Mimeo](https://github.com/chucknado/mimeo/blob/master/docs/using-mimeo.md).
 
 
 ### Installing Python 3.6 or higher
@@ -39,24 +39,24 @@ $ pip3 install arrow
 ```
 
 
-### Installing Mime
+### Installing Mimeo
 
-1. Go to [https://github.com/chucknado/mime](https://github.com/chucknado/mime), click the green **Clone or Download** button on the right side, and choose **Download ZIP**.
+1. Go to [https://github.com/chucknado/mimeo](https://github.com/chucknado/mimeo), click the green **Clone or Download** button on the right side, and choose **Download ZIP**.
 
-2. Unzip and copy the folder to a folder that's easy to access from the command line. Example: **/Users/jdoe/tools/mime**.
+2. Unzip and copy the folder to a folder that's easy to access from the command line. Example: **/Users/jdoe/tools/mimeo**.
 
 3. You'll run the app from the command line so you should keep the path short. To get to the tool from the command line, you'd use the following command:
 
     ```bash
-    $ cd tools/mime
+    $ cd tools/mimeo
     ```
 
 
-### Configuring Mime
+### Configuring Mimeo
 
-You have to be a Zendesk Support agent or administrator to use Mime.
+You have to be a Zendesk Support agent or administrator to use Mimeo.
 
-1. In the **mime** application folder, open the **credentials.txt** file in the **basic_auth** folder.
+1. In the **mimeo** application folder, open the **credentials.txt** file in the **basic_auth** folder.
 
 2. On the first line, add your Zendesk Support username (email) and password, separated by a colon. Example:
 
@@ -69,5 +69,5 @@ You have to be a Zendesk Support agent or administrator to use Mime.
  	<img src="https://zen-marketing-documentation.s3.amazonaws.com/docs/en/gs_api_pwd_enabled.png" width="380px">
 
 
-You should be good to go. To learn how to use the tool, see [Using Mime](https://github.com/chucknado/mime/blob/master/docs/using-mime.md).
+You should be good to go. To learn how to use the tool, see [Using Mimeo](https://github.com/chucknado/mimeo/blob/master/docs/using-mimeo.md).
 
