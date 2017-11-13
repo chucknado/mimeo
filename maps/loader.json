@@ -1,0 +1,14 @@
+{
+  "source_id": 0,
+  "source_hc": "your_subdomain",
+  "locations": [
+    {
+  	  "hc": "one_of_your_subdomains",
+      "section_id": 0
+    },
+    {
+  	  "hc": "one_of_your_subdomains",
+      "section_id": 0
+    }
+  ]
+}
