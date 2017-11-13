@@ -27,12 +27,6 @@ See the following topics in this repo:
 - [Syncing replicated articles](https://github.com/chucknado/mimeo/tree/master/docs/using-mimeo.md#syncing-replicated-articles)
 - [Unreplicating articles](https://github.com/chucknado/mimeo/tree/master/docs/using-mimeo.md#unreplicating-articles)
 
-The following reference docs are also available:
-
-- [Loader reference](https://github.com/chucknado/mimeo/tree/master/docs/loader-reference.md)
-- [Unloader reference](https://github.com/chucknado/mimeo/tree/master/docs/unloader-reference.md)
-- [Global map reference](https://github.com/chucknado/mimeo/tree/master/docs/global-map-reference.md)
-
 The source code also contains inline documentation.
 
 This application uses the Zendesk API. See [Help Center API](https://developer.zendesk.com/rest_api/docs/help_center/introduction) on the Zendesk developer website.
