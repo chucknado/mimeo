@@ -32,7 +32,7 @@ The source code also contains inline documentation.
 This application uses the Zendesk API. See [Help Center API](https://developer.zendesk.com/rest_api/docs/help_center/introduction) on the Zendesk developer website.
 
 
-## Limitations, or "improvement opportunities""
+## Limitations, or "opportunities for improvements"
 
 The tool has the following limitations. Feel free to clone the project and build your own solutions to them.
 
