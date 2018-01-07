@@ -94,7 +94,6 @@ def remove_copy(copy_id, hc):
     :return: 204 or None
     """
     url = 'https://{}.zendesk.com/api/v2/help_center/articles/{}.json'.format(hc, copy_id)
-    print(url)
     response = requests.delete(url, auth=auth)
     if response.status_code == 204:
         return response.status_code
